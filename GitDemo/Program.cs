@@ -17,5 +17,5 @@ namespace GitDemo
 
     class Marine { }
 
-    class Cat { }
+    class Lion{}
 }
