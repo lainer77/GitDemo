@@ -14,5 +14,5 @@ namespace GitDemo
         }
     }
 
-    class FireWhat { }
+    class Marine { }
 }
