@@ -18,4 +18,6 @@ namespace GitDemo
     class Marine { }
 
     class Lion{}
+
+    class Cat { }
 }
